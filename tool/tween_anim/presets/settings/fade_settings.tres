@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="TweenSettings" load_steps=2 format=3 uid="uid://otqg3tk3det3"]
+
+[ext_resource type="Script" uid="uid://bjiqhydhmimnm" path="res://tool/tween_anim/tween_settings.gd" id="1_m7hqk"]
+
+[resource]
+script = ExtResource("1_m7hqk")
+meta = "fade"
+enable_method_tweener = true
+trans = 5
+metadata/_custom_type_script = "uid://bjiqhydhmimnm"
