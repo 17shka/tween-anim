@@ -1,0 +1,10 @@
+[gd_resource type="Resource" script_class="TweenSettings" load_steps=2 format=3 uid="uid://bxgi27fkyxqcr"]
+
+[ext_resource type="Script" uid="uid://bjiqhydhmimnm" path="res://tool/tween_anim/tween_settings.gd" id="1_ud8ye"]
+
+[resource]
+script = ExtResource("1_ud8ye")
+meta = "scaling"
+active_tween_action = 1
+loops = 0
+metadata/_custom_type_script = "uid://bjiqhydhmimnm"

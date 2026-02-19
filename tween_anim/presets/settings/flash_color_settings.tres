@@ -1,0 +1,9 @@
+[gd_resource type="Resource" script_class="TweenSettings" load_steps=2 format=3 uid="uid://cpwk44vvx6yrl"]
+
+[ext_resource type="Script" uid="uid://bjiqhydhmimnm" path="res://tool/tween_anim/tween_settings.gd" id="1_ns4i2"]
+
+[resource]
+script = ExtResource("1_ns4i2")
+meta = &"flash_color"
+enable_easing = true
+metadata/_custom_type_script = "uid://bjiqhydhmimnm"

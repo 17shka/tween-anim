@@ -1,0 +1,8 @@
+[gd_resource type="Resource" script_class="TweenSettings" format=3 uid="uid://cl0x06shdpeay"]
+
+[ext_resource type="Script" uid="uid://bjiqhydhmimnm" path="res://toolbox/system/tween_anim/tween_settings.gd" id="1_o60j3"]
+
+[resource]
+script = ExtResource("1_o60j3")
+meta = &"shrink"
+metadata/_custom_type_script = "uid://bjiqhydhmimnm"
